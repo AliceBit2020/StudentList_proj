@@ -1,4 +1,4 @@
-#include "StudListFunc.h"
+﻿#include "StudListFunc.h"
 
 void AddStudents(char**& list, int& count, char* student)
 {
@@ -20,7 +20,7 @@ void RemoveStudent(char**& list, int& count, int index)
 {
 }
 
-void Print(char** list, int count)
+void Print(char** list, int count)//
 {
 }
 
